@@ -1,0 +1,87 @@
+body {
+    height: 100vh;
+}
+
+img {
+    z-index: -1;
+}
+
+h1 {
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+
+.login {
+    position: absolute;
+    top: 50px;
+    left: 50px;
+}
+
+.center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.panelGrid {
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+
+.error {
+    color: red;
+}
+
+.login-Buttons {
+    background-color: white;
+    color: black;
+    width: 100%;
+    height: 100%;
+}
+
+.form_uebersicht {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.button_big {
+    background-color: black;
+    color: white;
+    width:200px;
+    height: 75px;
+    font-size: 24px;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+
+.button_position {
+    position: absolute;
+    top: 50px;
+}
+
+.form_uebersicht + .form_uebersicht {
+    position: absolute;
+    top: 300px;
+}
+
+.button_abmelden {
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

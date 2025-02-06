@@ -1,0 +1,68 @@
+06-Feb-2025 20:14:35.019 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:14:35.019 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 20:16:03.060 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:16:03.060 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+06-Feb-2025 20:16:03.063 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:19:41.435 INFORMATION [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:19:41.435 INFORMATION [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 20:35:05.161 INFORMATION [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:35:05.161 INFORMATION [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 20:38:34.125 INFORMATION [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:38:34.127 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:44:11.762 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:44:11.762 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 20:45:47.083 INFORMATION [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:45:47.083 INFORMATION [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+06-Feb-2025 20:46:19.277 INFORMATION [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:46:28.841 INFORMATION [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:47:01.845 INFORMATION [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:47:08.469 INFORMATION [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: install: Installing web application from 'null'
+06-Feb-2025 20:47:08.469 INFORMATION [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:48:27.356 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/GhostNetFishing-1.0-SNAPSHOT'
+06-Feb-2025 20:48:27.906 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:48:29.420 INFORMATION [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: undeploy: Undeploying web application at '/GhostNetFishing'
+06-Feb-2025 20:48:29.954 INFORMATION [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:49:32.501 INFORMATION [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log HTMLManager: install: Installing web application from 'null'
+06-Feb-2025 20:49:32.501 INFORMATION [http-nio-8080-exec-12] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:50:38.092 INFORMATION [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:50:38.092 INFORMATION [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 20:56:09.358 INFORMATION [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:56:09.358 INFORMATION [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: init: Global resources are available
+06-Feb-2025 20:56:09.364 INFORMATION [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log HTMLManager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:59:37.175 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 20:59:37.175 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 20:59:37.186 INFORMATION [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:59:37.188 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 20:59:37.204 INFORMATION [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/EDUARD~1/AppData/Local/Temp/context137749183265328313.xml'
+06-Feb-2025 20:59:39.260 INFORMATION [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/GhostNetFishing'
+06-Feb-2025 21:12:53.447 INFORMATION [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 21:12:53.447 INFORMATION [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 21:13:10.049 INFORMATION [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:13:10.051 INFORMATION [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:13:26.414 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/GhostNetFishing'
+06-Feb-2025 21:13:26.941 INFORMATION [http-nio-8080-exec-3] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:13:26.942 INFORMATION [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:13:29.564 INFORMATION [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/GhostNetFishing-1.0-SNAPSHOT'
+06-Feb-2025 21:13:30.112 INFORMATION [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:13:30.113 INFORMATION [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:14:51.158 INFORMATION [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 21:14:51.158 INFORMATION [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 21:14:57.104 INFORMATION [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:14:57.106 INFORMATION [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:17:48.494 INFORMATION [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 21:17:48.494 INFORMATION [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 21:17:52.326 INFORMATION [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:17:52.328 INFORMATION [http-nio-8080-exec-2] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:19:24.308 INFORMATION [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 21:19:24.308 INFORMATION [http-nio-8080-exec-4] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 21:19:24.320 INFORMATION [http-nio-8080-exec-7] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:19:24.322 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:19:24.337 INFORMATION [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/EDUARD~1/AppData/Local/Temp/context5796547206317179379.xml'
+06-Feb-2025 21:19:27.008 INFORMATION [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/GhostNetFishing'
+06-Feb-2025 21:20:08.485 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+06-Feb-2025 21:20:08.485 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+06-Feb-2025 21:20:08.504 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:20:08.508 INFORMATION [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+06-Feb-2025 21:20:08.513 INFORMATION [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/GhostNetFishing'
+06-Feb-2025 21:20:09.064 INFORMATION [http-nio-8080-exec-6] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/EDUARD~1/AppData/Local/Temp/context2413434536814046905.xml'
+06-Feb-2025 21:20:11.445 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/GhostNetFishing'

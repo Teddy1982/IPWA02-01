@@ -1,0 +1,607 @@
+21-Jan-2025 18:38:19.535 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Server Version:        Apache Tomcat/10.0.27
+21-Jan-2025 18:38:19.538 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Oct 3 2022 14:18:31 UTC
+21-Jan-2025 18:38:19.538 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.0.27.0
+21-Jan-2025 18:38:19.538 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+21-Jan-2025 18:38:19.539 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+21-Jan-2025 18:38:19.539 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Architektur:           amd64
+21-Jan-2025 18:38:19.539 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-22
+21-Jan-2025 18:38:19.539 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           22.0.1+8-16
+21-Jan-2025 18:38:19.539 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Hersteller:        Oracle Corporation
+21-Jan-2025 18:38:19.539 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27
+21-Jan-2025 18:38:19.539 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27
+21-Jan-2025 18:38:19.544 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+21-Jan-2025 18:38:19.544 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+21-Jan-2025 18:38:19.545 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+21-Jan-2025 18:38:19.545 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+21-Jan-2025 18:38:19.545 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+21-Jan-2025 18:38:19.545 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\logging.properties
+21-Jan-2025 18:38:19.545 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+21-Jan-2025 18:38:19.545 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+21-Jan-2025 18:38:19.545 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+21-Jan-2025 18:38:19.546 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+21-Jan-2025 18:38:19.546 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27
+21-Jan-2025 18:38:19.546 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27
+21-Jan-2025 18:38:19.546 INFORMATION [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\temp
+21-Jan-2025 18:38:19.552 INFORMATION [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Java\jdk-22\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Python312\Scripts\;C:\Python312\;C:\Program Files\Microsoft\jdk-11.0.16.101-hotspot\bin;C:\Program Files\ImageMagick-7.1.1-Q16-HDRI;C:\Python311\Scripts\;C:\Python311\;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\CollabNet;C:\Program Files (x86)\Embarcadero\RAD Studio\10.0\bin;C:\Users\Public\Documents\RAD Studio\10.0\Bpl;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\xampp\php;C:\Program Files (x86)\Gpg4win\..\GnuPG\bin;C:\Program Files\Java\apache-ant-1.9.16\bin;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\dotnet\;C:\Program Files (x86)\Microsoft SQL Server\150\Tools\Binn\;C:\Program Files\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Azure Data Studio\bin;D:\Android\SDK\platforms;D:\Android\SDK\platform-tools;C:\Program Files (x86)\Pdfsizeopt;C:\ProgramData\chocolatey\bin;C:\Program Files\mosquitto;D:\Android\Flutter-SDK\flutter\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files\CMake\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Eduard Töws\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Eduard Töws\AppData\Local\Programs\Python\Python39\;C:\Users\Eduard Töws\AppData\Local\Microsoft\WindowsApps;C:\Users\Eduard Töws\AppData\Local\GitHubDesktop\bin;C:\Users\Eduard Töws\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Eduard Töws\.dotnet\tools;C:\Program Files\Azure Data Studio\bin;C:\Program Files (x86)\Brackets\;C:\Users\Eduard Töws\AppData\Roaming\npm;;.]
+21-Jan-2025 18:38:19.903 INFORMATION [main] org.apache.coyote.AbstractProtocol.init Initialisiere ProtocolHandler["http-nio-8080"]
+21-Jan-2025 18:38:19.918 INFORMATION [main] org.apache.catalina.startup.Catalina.load Server initialization in [551] milliseconds
+21-Jan-2025 18:38:19.952 INFORMATION [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+21-Jan-2025 18:38:19.953 INFORMATION [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.0.27]
+21-Jan-2025 18:38:19.959 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:38:19.969 WARNUNG [main] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:38:21.429 INFORMATION [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:38:21.482 INFO [main] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:38:21.501 INFO [main] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:38:21.696 INFO [main] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:38:21.862 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:38:21.864 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:38:21.883 INFO [main] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:38:22.054 INFORMATION [main] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:38:22.144 INFORMATION [main] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:38:22.551 INFORMATION [main] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:38:22.573 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [2.611] ms
+21-Jan-2025 18:38:22.624 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\GhostNetFishing-1.0-SNAPSHOT.war]
+21-Jan-2025 18:38:22.638 WARNUNG [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+21-Jan-2025 18:38:22.798 INFORMATION [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:38:22.800 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\GhostNetFishing-1.0-SNAPSHOT.war] has finished in [176] ms
+21-Jan-2025 18:38:22.800 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\docs]
+21-Jan-2025 18:38:22.975 INFORMATION [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:38:22.976 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\docs] has finished in [176] ms
+21-Jan-2025 18:38:22.976 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\examples]
+21-Jan-2025 18:38:23.590 INFORMATION [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:38:23.616 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\examples] has finished in [639] ms
+21-Jan-2025 18:38:23.616 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\host-manager]
+21-Jan-2025 18:38:23.789 INFORMATION [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:38:23.792 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\host-manager] has finished in [176] ms
+21-Jan-2025 18:38:23.792 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploye Web-Applikations-Verzeichnis [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\manager]
+21-Jan-2025 18:38:23.941 INFORMATION [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:38:23.942 INFORMATION [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\webapps\manager] has finished in [150] ms
+21-Jan-2025 18:38:23.945 INFORMATION [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+21-Jan-2025 18:38:23.958 INFORMATION [main] org.apache.catalina.startup.Catalina.start Server startup in [4039] milliseconds
+21-Jan-2025 18:38:25.923 INFORMATION [http-nio-8080-exec-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:38:25.958 INFORMATION [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:38:25.959 WARNUNG [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:38:27.023 INFORMATION [http-nio-8080-exec-10] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:38:27.044 INFO [http-nio-8080-exec-10] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:38:27.057 INFO [http-nio-8080-exec-10] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:38:27.173 INFO [http-nio-8080-exec-10] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:38:27.310 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:38:27.311 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:38:27.327 INFO [http-nio-8080-exec-10] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:38:27.463 INFORMATION [http-nio-8080-exec-10] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:38:27.522 INFORMATION [http-nio-8080-exec-10] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:38:27.802 INFORMATION [http-nio-8080-exec-10] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:38:27.808 INFORMATION [http-nio-8080-exec-10] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.850] ms
+21-Jan-2025 18:38:27.810 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 18:42:26.440 INFORMATION [http-nio-8080-exec-17] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:42:26.448 INFORMATION [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:42:26.449 WARNUNG [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:42:27.453 INFORMATION [http-nio-8080-exec-12] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:42:27.475 INFO [http-nio-8080-exec-12] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:42:27.487 INFO [http-nio-8080-exec-12] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:42:27.594 INFO [http-nio-8080-exec-12] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:42:27.722 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:42:27.723 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:42:27.738 INFO [http-nio-8080-exec-12] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:42:27.870 INFORMATION [http-nio-8080-exec-12] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:42:27.937 INFORMATION [http-nio-8080-exec-12] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:42:28.202 INFORMATION [http-nio-8080-exec-12] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:42:28.208 INFORMATION [http-nio-8080-exec-12] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.760] ms
+21-Jan-2025 18:42:28.210 INFORMATION [http-nio-8080-exec-14] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 18:43:58.598 INFORMATION [http-nio-8080-exec-26] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:43:58.606 INFORMATION [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:43:58.606 WARNUNG [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:43:59.614 INFORMATION [http-nio-8080-exec-21] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:43:59.634 INFO [http-nio-8080-exec-21] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:43:59.647 INFO [http-nio-8080-exec-21] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:43:59.749 INFO [http-nio-8080-exec-21] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:43:59.874 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:43:59.875 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:43:59.889 INFO [http-nio-8080-exec-21] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:44:00.023 INFORMATION [http-nio-8080-exec-21] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:44:00.077 INFORMATION [http-nio-8080-exec-21] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:44:00.334 INFORMATION [http-nio-8080-exec-21] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:44:00.339 INFORMATION [http-nio-8080-exec-21] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.733] ms
+21-Jan-2025 18:44:00.342 INFORMATION [http-nio-8080-exec-27] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 18:46:40.906 INFORMATION [http-nio-8080-exec-35] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:46:40.914 INFORMATION [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:46:40.914 WARNUNG [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:46:41.889 INFORMATION [http-nio-8080-exec-30] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:46:41.909 INFO [http-nio-8080-exec-30] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:46:41.922 INFO [http-nio-8080-exec-30] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:46:42.032 INFO [http-nio-8080-exec-30] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:46:42.157 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:46:42.158 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:46:42.171 INFO [http-nio-8080-exec-30] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:46:42.297 INFORMATION [http-nio-8080-exec-30] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:46:42.351 INFORMATION [http-nio-8080-exec-30] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:46:42.606 INFORMATION [http-nio-8080-exec-30] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:46:42.610 INFORMATION [http-nio-8080-exec-30] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.696] ms
+21-Jan-2025 18:46:42.612 INFORMATION [http-nio-8080-exec-28] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 18:46:49.761 SCHWERWIEGEND [http-nio-8080-exec-16] com.sun.faces.util.Util.checkIdUniqueness JSF1007: Doppelte Komponenten-ID j_idt6:btMelden in Ansicht gefunden.
+21-Jan-2025 18:46:49.763 SCHWERWIEGEND [http-nio-8080-exec-16] com.sun.faces.util.Util.checkIdUniqueness +id: j_id1
+ type: jakarta.faces.component.UIViewRoot@16b2419c
+  +id: j_idt1
+   type: <html xmlns="http://www.w3.org/1999/xhtml">
+    
+  +id: j_idt2
+   type: jakarta.faces.component.UIOutput@62f1c031
+    +id: j_idt3
+     type: 
+       <link rel="stylesheet" type="text/css" media="screen" href="style.css"/>
+       <title>GhostNetFishing - Übersicht</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    
+  +id: j_idt4
+   type: jakarta.faces.component.html.HtmlBody@7819c81c
+    +id: j_idt5
+     type: 
+        <h1>GhostNetFishing - Übersicht</h1>
+        
+    +id: j_idt6
+     type: jakarta.faces.component.html.HtmlForm@6b70e405
+      +id: btMelden  <===============
+       type: jakarta.faces.component.html.HtmlOutcomeTargetButton@4fc5ea94
+      +id: btBergen
+       type: jakarta.faces.component.html.HtmlOutcomeTargetButton@23d95b15
+      +id: btGeborgen
+       type: jakarta.faces.component.html.HtmlOutcomeTargetButton@15b63e5a
+      +id: btMelden  <===============
+       type: jakarta.faces.component.html.HtmlOutcomeTargetButton@790ab025
+  +id: j_idt7
+   type: 
+</html>
+
+21-Jan-2025 18:46:49.767 SCHWERWIEGEND [http-nio-8080-exec-16] com.sun.faces.application.view.FaceletViewHandlingStrategy.handleRenderException Error Rendering View[/uebersicht.xhtml]
+	java.lang.IllegalStateException: Komponenten-ID j_idt6:btMelden wurde bereits in der Ansicht gefunden.
+		at com.sun.faces.util.Util.checkIdUniqueness(Util.java:1167)
+		at com.sun.faces.util.Util.checkIdUniqueness(Util.java:1156)
+		at com.sun.faces.util.Util.checkIdUniqueness(Util.java:1156)
+		at com.sun.faces.application.view.FaceletPartialStateManagementStrategy.saveView(FaceletPartialStateManagementStrategy.java:434)
+		at com.sun.faces.application.view.WriteBehindStateWriter.getState(WriteBehindStateWriter.java:290)
+		at com.sun.faces.application.view.WriteBehindStateWriter.flushToWriter(WriteBehindStateWriter.java:188)
+		at com.sun.faces.application.view.FaceletViewHandlingStrategy.renderView(FaceletViewHandlingStrategy.java:456)
+		at com.sun.faces.application.view.MultiViewHandler.renderView(MultiViewHandler.java:162)
+		at jakarta.faces.application.ViewHandlerWrapper.renderView(ViewHandlerWrapper.java:125)
+		at com.sun.faces.lifecycle.RenderResponsePhase.execute(RenderResponsePhase.java:93)
+		at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:72)
+		at com.sun.faces.lifecycle.LifecycleImpl.render(LifecycleImpl.java:178)
+		at jakarta.faces.webapp.FacesServlet.executeLifecyle(FacesServlet.java:692)
+		at jakarta.faces.webapp.FacesServlet.service(FacesServlet.java:449)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1570)
+21-Jan-2025 18:47:29.370 INFORMATION [http-nio-8080-exec-39] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:47:29.380 INFORMATION [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:47:29.380 WARNUNG [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:47:30.423 INFORMATION [http-nio-8080-exec-29] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:47:30.444 INFO [http-nio-8080-exec-29] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:47:30.457 INFO [http-nio-8080-exec-29] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:47:30.561 INFO [http-nio-8080-exec-29] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:47:30.696 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:47:30.697 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:47:30.713 INFO [http-nio-8080-exec-29] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:47:30.842 INFORMATION [http-nio-8080-exec-29] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:47:30.896 INFORMATION [http-nio-8080-exec-29] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:47:31.145 INFORMATION [http-nio-8080-exec-29] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:47:31.150 INFORMATION [http-nio-8080-exec-29] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.770] ms
+21-Jan-2025 18:47:31.152 INFORMATION [http-nio-8080-exec-38] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 18:52:22.399 INFORMATION [http-nio-8080-exec-48] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:52:22.408 INFORMATION [http-nio-8080-exec-44] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:52:22.408 WARNUNG [http-nio-8080-exec-44] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:52:23.425 INFORMATION [http-nio-8080-exec-44] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:52:23.446 INFO [http-nio-8080-exec-44] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:52:23.459 INFO [http-nio-8080-exec-44] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:52:23.562 INFO [http-nio-8080-exec-44] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:52:23.686 INFO [weld-worker-9] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:52:23.687 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:52:23.701 INFO [http-nio-8080-exec-44] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:52:23.826 INFORMATION [http-nio-8080-exec-44] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:52:23.884 INFORMATION [http-nio-8080-exec-44] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:52:24.146 INFORMATION [http-nio-8080-exec-44] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:52:24.152 INFORMATION [http-nio-8080-exec-44] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.744] ms
+21-Jan-2025 18:52:24.154 INFORMATION [http-nio-8080-exec-41] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 18:53:02.835 INFORMATION [http-nio-8080-exec-51] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:53:02.843 INFORMATION [http-nio-8080-exec-56] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:53:02.844 WARNUNG [http-nio-8080-exec-56] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:53:03.856 INFORMATION [http-nio-8080-exec-56] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:53:03.876 INFO [http-nio-8080-exec-56] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:53:03.889 INFO [http-nio-8080-exec-56] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:53:03.990 INFO [http-nio-8080-exec-56] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:53:04.120 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:53:04.121 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:53:04.137 INFO [http-nio-8080-exec-56] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:53:04.267 INFORMATION [http-nio-8080-exec-56] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:53:04.320 INFORMATION [http-nio-8080-exec-56] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:53:04.564 INFORMATION [http-nio-8080-exec-56] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:53:04.569 INFORMATION [http-nio-8080-exec-56] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.726] ms
+21-Jan-2025 18:53:04.571 INFORMATION [http-nio-8080-exec-49] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 18:53:46.171 INFORMATION [http-nio-8080-exec-57] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:53:46.178 INFORMATION [http-nio-8080-exec-58] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:53:46.179 WARNUNG [http-nio-8080-exec-58] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:53:47.157 INFORMATION [http-nio-8080-exec-58] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:53:47.177 INFO [http-nio-8080-exec-58] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:53:47.190 INFO [http-nio-8080-exec-58] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:53:47.290 INFO [http-nio-8080-exec-58] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:53:47.413 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:53:47.413 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:53:47.428 INFO [http-nio-8080-exec-58] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:53:47.550 INFORMATION [http-nio-8080-exec-58] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:53:47.603 INFORMATION [http-nio-8080-exec-58] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:53:47.851 INFORMATION [http-nio-8080-exec-58] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:53:47.855 INFORMATION [http-nio-8080-exec-58] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.677] ms
+21-Jan-2025 18:53:47.857 INFORMATION [http-nio-8080-exec-60] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 18:54:55.717 INFORMATION [http-nio-8080-exec-62] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 18:54:55.724 INFORMATION [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 18:54:55.724 WARNUNG [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 18:54:56.725 INFORMATION [http-nio-8080-exec-55] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 18:54:56.747 INFO [http-nio-8080-exec-55] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 18:54:56.761 INFO [http-nio-8080-exec-55] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 18:54:56.864 INFO [http-nio-8080-exec-55] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 18:54:56.988 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:54:56.990 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 18:54:57.005 INFO [http-nio-8080-exec-55] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 18:54:57.131 INFORMATION [http-nio-8080-exec-55] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 18:54:57.187 INFORMATION [http-nio-8080-exec-55] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 18:54:57.429 INFORMATION [http-nio-8080-exec-55] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 18:54:57.434 INFORMATION [http-nio-8080-exec-55] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.710] ms
+21-Jan-2025 18:54:57.436 INFORMATION [http-nio-8080-exec-67] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 19:00:29.410 INFORMATION [http-nio-8080-exec-78] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 19:00:29.419 INFORMATION [http-nio-8080-exec-79] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 19:00:29.419 WARNUNG [http-nio-8080-exec-79] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 19:00:30.407 INFORMATION [http-nio-8080-exec-79] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 19:00:30.428 INFO [http-nio-8080-exec-79] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 19:00:30.442 INFO [http-nio-8080-exec-79] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 19:00:30.550 INFO [http-nio-8080-exec-79] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 19:00:30.670 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:00:30.671 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:00:30.685 INFO [http-nio-8080-exec-79] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 19:00:30.807 INFORMATION [http-nio-8080-exec-79] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 19:00:30.860 INFORMATION [http-nio-8080-exec-79] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 19:00:31.107 INFORMATION [http-nio-8080-exec-79] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 19:00:31.112 INFORMATION [http-nio-8080-exec-79] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.693] ms
+21-Jan-2025 19:00:31.114 INFORMATION [http-nio-8080-exec-77] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 19:01:05.458 INFORMATION [http-nio-8080-exec-82] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 19:01:05.465 INFORMATION [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 19:01:05.466 WARNUNG [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 19:01:06.430 INFORMATION [http-nio-8080-exec-76] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 19:01:06.450 INFO [http-nio-8080-exec-76] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 19:01:06.463 INFO [http-nio-8080-exec-76] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 19:01:06.576 INFO [http-nio-8080-exec-76] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 19:01:06.698 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:01:06.699 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:01:06.712 INFO [http-nio-8080-exec-76] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 19:01:06.835 INFORMATION [http-nio-8080-exec-76] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 19:01:06.886 INFORMATION [http-nio-8080-exec-76] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 19:01:07.127 INFORMATION [http-nio-8080-exec-76] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 19:01:07.132 INFORMATION [http-nio-8080-exec-76] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.666] ms
+21-Jan-2025 19:01:07.134 INFORMATION [http-nio-8080-exec-84] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 19:03:37.210 INFORMATION [http-nio-8080-exec-94] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 19:03:37.217 INFORMATION [http-nio-8080-exec-95] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 19:03:37.217 WARNUNG [http-nio-8080-exec-95] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 19:03:38.194 INFORMATION [http-nio-8080-exec-95] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 19:03:38.214 INFO [http-nio-8080-exec-95] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 19:03:38.227 INFO [http-nio-8080-exec-95] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 19:03:38.325 INFO [http-nio-8080-exec-95] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 19:03:38.445 INFO [weld-worker-9] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:03:38.446 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:03:38.459 INFO [http-nio-8080-exec-95] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 19:03:38.587 INFORMATION [http-nio-8080-exec-95] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 19:03:38.640 INFORMATION [http-nio-8080-exec-95] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 19:03:38.881 INFORMATION [http-nio-8080-exec-95] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 19:03:38.885 INFORMATION [http-nio-8080-exec-95] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.668] ms
+21-Jan-2025 19:03:38.888 INFORMATION [http-nio-8080-exec-93] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 19:06:06.670 INFORMATION [http-nio-8080-exec-104] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 19:06:06.677 INFORMATION [http-nio-8080-exec-103] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 19:06:06.678 WARNUNG [http-nio-8080-exec-103] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 19:06:07.671 INFORMATION [http-nio-8080-exec-103] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 19:06:07.691 INFO [http-nio-8080-exec-103] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 19:06:07.704 INFO [http-nio-8080-exec-103] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 19:06:07.805 INFO [http-nio-8080-exec-103] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 19:06:07.928 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:06:07.929 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:06:07.942 INFO [http-nio-8080-exec-103] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 19:06:08.079 INFORMATION [http-nio-8080-exec-103] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 19:06:08.131 INFORMATION [http-nio-8080-exec-103] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 19:06:08.375 INFORMATION [http-nio-8080-exec-103] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 19:06:08.379 INFORMATION [http-nio-8080-exec-103] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.702] ms
+21-Jan-2025 19:06:08.382 INFORMATION [http-nio-8080-exec-102] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 19:09:13.840 INFORMATION [http-nio-8080-exec-114] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 19:09:13.847 INFORMATION [http-nio-8080-exec-110] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 19:09:13.848 WARNUNG [http-nio-8080-exec-110] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 19:09:14.821 INFORMATION [http-nio-8080-exec-110] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 19:09:14.841 INFO [http-nio-8080-exec-110] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 19:09:14.854 INFO [http-nio-8080-exec-110] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 19:09:14.958 INFO [http-nio-8080-exec-110] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 19:09:15.089 INFO [weld-worker-8] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:09:15.090 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:09:15.106 INFO [http-nio-8080-exec-110] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 19:09:15.235 INFORMATION [http-nio-8080-exec-110] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 19:09:15.289 INFORMATION [http-nio-8080-exec-110] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 19:09:15.542 INFORMATION [http-nio-8080-exec-110] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 19:09:15.547 INFORMATION [http-nio-8080-exec-110] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.700] ms
+21-Jan-2025 19:09:15.549 INFORMATION [http-nio-8080-exec-109] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 19:50:53.529 INFORMATION [http-nio-8080-exec-117] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 19:50:53.536 INFORMATION [http-nio-8080-exec-122] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 19:50:53.537 WARNUNG [http-nio-8080-exec-122] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 19:50:54.507 INFORMATION [http-nio-8080-exec-122] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 19:50:54.528 INFO [http-nio-8080-exec-122] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 19:50:54.541 INFO [http-nio-8080-exec-122] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 19:50:54.640 INFO [http-nio-8080-exec-122] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 19:50:54.762 INFO [weld-worker-9] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:50:54.764 INFO [weld-worker-10] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:50:54.777 INFO [http-nio-8080-exec-122] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 19:50:54.902 INFORMATION [http-nio-8080-exec-122] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 19:50:54.954 INFORMATION [http-nio-8080-exec-122] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 19:50:55.211 INFORMATION [http-nio-8080-exec-122] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 19:50:55.216 INFORMATION [http-nio-8080-exec-122] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.680] ms
+21-Jan-2025 19:50:55.218 INFORMATION [http-nio-8080-exec-125] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 19:51:02.938 SCHWERWIEGEND [http-nio-8080-exec-126] com.sun.faces.application.view.FaceletViewHandlingStrategy.handleRenderException Error Rendering View[/uebersicht_test.xhtml]
+	java.lang.IllegalArgumentException: An exception occurred while creating a query in EntityManager: 
+Exception Description: Problem compiling [select a from Geisternetz a where netzStatus = 'BERGUNG']. 
+[34, 44] The identification variable 'netzStatus' is not defined in the FROM clause.
+		at org.eclipse.persistence.internal.jpa.EntityManagerImpl.createQuery(EntityManagerImpl.java:1751)
+		at GeisternetzDAO.findWithStatus(GeisternetzDAO.java:14)
+		at DatenController.<init>(DatenController.java:19)
+		at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+		at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+		at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:486)
+		at org.jboss.weld.injection.ConstructorInjectionPoint.newInstance(ConstructorInjectionPoint.java:119)
+		at org.jboss.weld.injection.ConstructorInjectionPoint.invokeAroundConstructCallbacks(ConstructorInjectionPoint.java:92)
+		at org.jboss.weld.injection.ConstructorInjectionPoint.newInstance(ConstructorInjectionPoint.java:78)
+		at org.jboss.weld.injection.producer.AbstractInstantiator.newInstance(AbstractInstantiator.java:28)
+		at org.jboss.weld.injection.producer.BasicInjectionTarget.produce(BasicInjectionTarget.java:112)
+		at org.jboss.weld.injection.producer.BeanInjectionTarget.produce(BeanInjectionTarget.java:186)
+		at org.jboss.weld.bean.ManagedBean.create(ManagedBean.java:160)
+		at org.jboss.weld.util.bean.IsolatedForwardingBean.create(IsolatedForwardingBean.java:45)
+		at com.sun.faces.application.view.ViewScopeContextManager.createBean(ViewScopeContextManager.java:132)
+		at com.sun.faces.application.view.ViewScopeContext.get(ViewScopeContext.java:111)
+		at org.jboss.weld.contexts.PassivatingContextWrapper$AbstractPassivatingContextWrapper.get(PassivatingContextWrapper.java:84)
+		at org.jboss.weld.bean.ContextualInstanceStrategy$DefaultContextualInstanceStrategy.get(ContextualInstanceStrategy.java:100)
+		at org.jboss.weld.bean.ContextualInstance.get(ContextualInstance.java:50)
+		at org.jboss.weld.manager.BeanManagerImpl.getReference(BeanManagerImpl.java:694)
+		at org.jboss.weld.module.web.el.AbstractWeldELResolver.lookup(AbstractWeldELResolver.java:107)
+		at org.jboss.weld.module.web.el.AbstractWeldELResolver.getValue(AbstractWeldELResolver.java:90)
+		at com.sun.faces.el.DemuxCompositeELResolver._getValue(DemuxCompositeELResolver.java:139)
+		at com.sun.faces.el.DemuxCompositeELResolver.getValue(DemuxCompositeELResolver.java:164)
+		at org.apache.el.parser.AstIdentifier.getValue(AstIdentifier.java:93)
+		at org.apache.el.parser.AstValue.getValue(AstValue.java:136)
+		at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:189)
+		at org.jboss.weld.module.web.el.WeldValueExpression.getValue(WeldValueExpression.java:50)
+		at com.sun.faces.facelets.el.TagValueExpression.getValue(TagValueExpression.java:73)
+		at jakarta.faces.component.ComponentStateHelper.eval(ComponentStateHelper.java:207)
+		at jakarta.faces.component.ComponentStateHelper.eval(ComponentStateHelper.java:176)
+		at jakarta.faces.component.UISelectItems.getValue(UISelectItems.java:120)
+		at org.primefaces.renderkit.SelectRenderer.getSelectItems(SelectRenderer.java:91)
+		at org.primefaces.component.selectonemenu.SelectOneMenuRenderer.encodeMarkup(SelectOneMenuRenderer.java:113)
+		at org.primefaces.component.selectonemenu.SelectOneMenuRenderer.encodeEnd(SelectOneMenuRenderer.java:106)
+		at jakarta.faces.component.UIComponentBase.encodeEnd(UIComponentBase.java:586)
+		at com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.encodeRecursive(HtmlBasicRenderer.java:265)
+		at com.sun.faces.renderkit.html_basic.GridRenderer.renderRow(GridRenderer.java:143)
+		at com.sun.faces.renderkit.html_basic.GridRenderer.encodeChildren(GridRenderer.java:97)
+		at jakarta.faces.component.UIComponentBase.encodeChildren(UIComponentBase.java:557)
+		at jakarta.faces.component.UIComponent.encodeAll(UIComponent.java:1435)
+		at jakarta.faces.render.Renderer.encodeChildren(Renderer.java:146)
+		at jakarta.faces.component.UIComponentBase.encodeChildren(UIComponentBase.java:557)
+		at jakarta.faces.component.UIComponent.encodeAll(UIComponent.java:1435)
+		at jakarta.faces.component.UIComponent.encodeAll(UIComponent.java:1438)
+		at jakarta.faces.component.UIComponent.encodeAll(UIComponent.java:1438)
+		at com.sun.faces.application.view.FaceletViewHandlingStrategy.renderView(FaceletViewHandlingStrategy.java:442)
+		at com.sun.faces.application.view.MultiViewHandler.renderView(MultiViewHandler.java:162)
+		at jakarta.faces.application.ViewHandlerWrapper.renderView(ViewHandlerWrapper.java:125)
+		at com.sun.faces.lifecycle.RenderResponsePhase.execute(RenderResponsePhase.java:93)
+		at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:72)
+		at com.sun.faces.lifecycle.LifecycleImpl.render(LifecycleImpl.java:178)
+		at jakarta.faces.webapp.FacesServlet.executeLifecyle(FacesServlet.java:692)
+		at jakarta.faces.webapp.FacesServlet.service(FacesServlet.java:449)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1570)
+	Caused by: Exception [EclipseLink-0] (Eclipse Persistence Services - 2.7.12.v20230209-e5c4074ef3): org.eclipse.persistence.exceptions.JPQLException
+Exception Description: Problem compiling [select a from Geisternetz a where netzStatus = 'BERGUNG']. 
+[34, 44] The identification variable 'netzStatus' is not defined in the FROM clause.
+		at org.eclipse.persistence.internal.jpa.jpql.HermesParser.buildException(HermesParser.java:157)
+		at org.eclipse.persistence.internal.jpa.jpql.HermesParser.validate(HermesParser.java:349)
+		at org.eclipse.persistence.internal.jpa.jpql.HermesParser.populateQueryImp(HermesParser.java:280)
+		at org.eclipse.persistence.internal.jpa.jpql.HermesParser.buildQuery(HermesParser.java:165)
+		at org.eclipse.persistence.internal.jpa.EJBQueryImpl.buildEJBQLDatabaseQuery(EJBQueryImpl.java:142)
+		at org.eclipse.persistence.internal.jpa.EJBQueryImpl.buildEJBQLDatabaseQuery(EJBQueryImpl.java:118)
+		at org.eclipse.persistence.internal.jpa.EJBQueryImpl.<init>(EJBQueryImpl.java:104)
+		at org.eclipse.persistence.internal.jpa.EJBQueryImpl.<init>(EJBQueryImpl.java:88)
+		at org.eclipse.persistence.internal.jpa.EntityManagerImpl.createQuery(EntityManagerImpl.java:1749)
+		... 75 more
+21-Jan-2025 19:53:33.489 INFORMATION [http-nio-8080-exec-120] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 19:53:33.496 INFORMATION [http-nio-8080-exec-131] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 19:53:33.497 WARNUNG [http-nio-8080-exec-131] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 19:53:34.497 INFORMATION [http-nio-8080-exec-131] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 19:53:34.519 INFO [http-nio-8080-exec-131] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 19:53:34.532 INFO [http-nio-8080-exec-131] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 19:53:34.636 INFO [http-nio-8080-exec-131] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 19:53:34.757 INFO [weld-worker-10] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:53:34.759 INFO [weld-worker-12] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:53:34.771 INFO [http-nio-8080-exec-131] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 19:53:34.895 INFORMATION [http-nio-8080-exec-131] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 19:53:34.954 INFORMATION [http-nio-8080-exec-131] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 19:53:35.216 INFORMATION [http-nio-8080-exec-131] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 19:53:35.221 INFORMATION [http-nio-8080-exec-131] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.725] ms
+21-Jan-2025 19:53:35.223 INFORMATION [http-nio-8080-exec-128] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 19:53:43.801 SCHWERWIEGEND [http-nio-8080-exec-118] com.sun.faces.application.view.FaceletViewHandlingStrategy.handleRenderException Error Rendering View[/uebersicht_test.xhtml]
+	jakarta.el.PropertyNotFoundException: /uebersicht_test.xhtml @47,31 value="#{datenController.personListe}": Die Eigenschaft [personListe] wurde für den Typ [DatenController] nicht gefunden
+		at com.sun.faces.facelets.el.TagValueExpression.getValue(TagValueExpression.java:75)
+		at jakarta.faces.component.ComponentStateHelper.eval(ComponentStateHelper.java:207)
+		at jakarta.faces.component.ComponentStateHelper.eval(ComponentStateHelper.java:176)
+		at jakarta.faces.component.UISelectItems.getValue(UISelectItems.java:120)
+		at org.primefaces.renderkit.SelectRenderer.getSelectItems(SelectRenderer.java:91)
+		at org.primefaces.component.selectonemenu.SelectOneMenuRenderer.encodeMarkup(SelectOneMenuRenderer.java:113)
+		at org.primefaces.component.selectonemenu.SelectOneMenuRenderer.encodeEnd(SelectOneMenuRenderer.java:106)
+		at jakarta.faces.component.UIComponentBase.encodeEnd(UIComponentBase.java:586)
+		at com.sun.faces.renderkit.html_basic.HtmlBasicRenderer.encodeRecursive(HtmlBasicRenderer.java:265)
+		at com.sun.faces.renderkit.html_basic.GridRenderer.renderRow(GridRenderer.java:143)
+		at com.sun.faces.renderkit.html_basic.GridRenderer.encodeChildren(GridRenderer.java:97)
+		at jakarta.faces.component.UIComponentBase.encodeChildren(UIComponentBase.java:557)
+		at jakarta.faces.component.UIComponent.encodeAll(UIComponent.java:1435)
+		at jakarta.faces.render.Renderer.encodeChildren(Renderer.java:146)
+		at jakarta.faces.component.UIComponentBase.encodeChildren(UIComponentBase.java:557)
+		at jakarta.faces.component.UIComponent.encodeAll(UIComponent.java:1435)
+		at jakarta.faces.component.UIComponent.encodeAll(UIComponent.java:1438)
+		at jakarta.faces.component.UIComponent.encodeAll(UIComponent.java:1438)
+		at com.sun.faces.application.view.FaceletViewHandlingStrategy.renderView(FaceletViewHandlingStrategy.java:442)
+		at com.sun.faces.application.view.MultiViewHandler.renderView(MultiViewHandler.java:162)
+		at jakarta.faces.application.ViewHandlerWrapper.renderView(ViewHandlerWrapper.java:125)
+		at com.sun.faces.lifecycle.RenderResponsePhase.execute(RenderResponsePhase.java:93)
+		at com.sun.faces.lifecycle.Phase.doPhase(Phase.java:72)
+		at com.sun.faces.lifecycle.LifecycleImpl.render(LifecycleImpl.java:178)
+		at jakarta.faces.webapp.FacesServlet.executeLifecyle(FacesServlet.java:692)
+		at jakarta.faces.webapp.FacesServlet.service(FacesServlet.java:449)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:223)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+		at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:185)
+		at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:158)
+		at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+		at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+		at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:542)
+		at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:119)
+		at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+		at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:690)
+		at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+		at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:356)
+		at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+		at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+		at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:870)
+		at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1762)
+		at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+		at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+		at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+		at java.base/java.lang.Thread.run(Thread.java:1570)
+	Caused by: jakarta.el.PropertyNotFoundException: Die Eigenschaft [personListe] wurde für den Typ [DatenController] nicht gefunden
+		at jakarta.el.BeanELResolver$BeanProperties.get(BeanELResolver.java:261)
+		at jakarta.el.BeanELResolver$BeanProperties.access$300(BeanELResolver.java:213)
+		at jakarta.el.BeanELResolver.property(BeanELResolver.java:334)
+		at jakarta.el.BeanELResolver.getValue(BeanELResolver.java:95)
+		at com.sun.faces.el.DemuxCompositeELResolver._getValue(DemuxCompositeELResolver.java:139)
+		at com.sun.faces.el.DemuxCompositeELResolver.getValue(DemuxCompositeELResolver.java:164)
+		at org.apache.el.parser.AstValue.getValue(AstValue.java:168)
+		at org.apache.el.ValueExpressionImpl.getValue(ValueExpressionImpl.java:189)
+		at org.jboss.weld.module.web.el.WeldValueExpression.getValue(WeldValueExpression.java:50)
+		at com.sun.faces.facelets.el.TagValueExpression.getValue(TagValueExpression.java:73)
+		... 47 more
+21-Jan-2025 19:54:36.492 INFORMATION [http-nio-8080-exec-129] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 19:54:36.499 INFORMATION [http-nio-8080-exec-126] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 19:54:36.500 WARNUNG [http-nio-8080-exec-126] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 19:54:37.479 INFORMATION [http-nio-8080-exec-126] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 19:54:37.500 INFO [http-nio-8080-exec-126] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 19:54:37.513 INFO [http-nio-8080-exec-126] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 19:54:37.611 INFO [http-nio-8080-exec-126] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 19:54:37.734 INFO [weld-worker-6] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:54:37.736 INFO [weld-worker-10] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 19:54:37.749 INFO [http-nio-8080-exec-126] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 19:54:37.872 INFORMATION [http-nio-8080-exec-126] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 19:54:37.923 INFORMATION [http-nio-8080-exec-126] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 19:54:38.165 INFORMATION [http-nio-8080-exec-126] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 19:54:38.170 INFORMATION [http-nio-8080-exec-126] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.671] ms
+21-Jan-2025 19:54:38.172 INFORMATION [http-nio-8080-exec-134] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 20:02:35.575 INFORMATION [http-nio-8080-exec-147] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 20:02:35.582 INFORMATION [http-nio-8080-exec-144] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 20:02:35.583 WARNUNG [http-nio-8080-exec-144] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 20:02:36.581 INFORMATION [http-nio-8080-exec-144] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 20:02:36.603 INFO [http-nio-8080-exec-144] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 20:02:36.621 INFO [http-nio-8080-exec-144] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 20:02:36.722 INFO [http-nio-8080-exec-144] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 20:02:36.845 INFO [weld-worker-9] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 20:02:36.846 INFO [weld-worker-2] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 20:02:36.861 INFO [http-nio-8080-exec-144] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 20:02:36.985 INFORMATION [http-nio-8080-exec-144] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 20:02:37.039 INFORMATION [http-nio-8080-exec-144] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 20:02:37.285 INFORMATION [http-nio-8080-exec-144] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 20:02:37.290 INFORMATION [http-nio-8080-exec-144] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.708] ms
+21-Jan-2025 20:02:37.292 INFORMATION [http-nio-8080-exec-148] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 20:05:44.344 INFORMATION [http-nio-8080-exec-158] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 20:05:44.356 INFORMATION [http-nio-8080-exec-157] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 20:05:44.357 WARNUNG [http-nio-8080-exec-157] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 20:05:45.362 INFORMATION [http-nio-8080-exec-157] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 20:05:45.382 INFO [http-nio-8080-exec-157] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 20:05:45.395 INFO [http-nio-8080-exec-157] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 20:05:45.496 INFO [http-nio-8080-exec-157] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 20:05:45.622 INFO [weld-worker-10] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 20:05:45.623 INFO [weld-worker-4] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 20:05:45.637 INFO [http-nio-8080-exec-157] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 20:05:45.760 INFORMATION [http-nio-8080-exec-157] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 20:05:45.814 INFORMATION [http-nio-8080-exec-157] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 20:05:46.059 INFORMATION [http-nio-8080-exec-157] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 20:05:46.064 INFORMATION [http-nio-8080-exec-157] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.708] ms
+21-Jan-2025 20:05:46.067 INFORMATION [http-nio-8080-exec-154] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 20:07:40.499 INFORMATION [http-nio-8080-exec-165] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 20:07:40.506 INFORMATION [http-nio-8080-exec-163] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 20:07:40.506 WARNUNG [http-nio-8080-exec-163] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 20:07:41.486 INFORMATION [http-nio-8080-exec-163] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 20:07:41.506 INFO [http-nio-8080-exec-163] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 20:07:41.519 INFO [http-nio-8080-exec-163] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 20:07:41.620 INFO [http-nio-8080-exec-163] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 20:07:41.741 INFO [weld-worker-9] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 20:07:41.743 INFO [weld-worker-10] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 20:07:41.757 INFO [http-nio-8080-exec-163] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 20:07:41.887 INFORMATION [http-nio-8080-exec-163] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 20:07:41.946 INFORMATION [http-nio-8080-exec-163] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 20:07:42.186 INFORMATION [http-nio-8080-exec-163] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 20:07:42.191 INFORMATION [http-nio-8080-exec-163] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.685] ms
+21-Jan-2025 20:07:42.193 INFORMATION [http-nio-8080-exec-159] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 20:08:19.755 INFORMATION [http-nio-8080-exec-167] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/GhostNetFishing]
+21-Jan-2025 20:08:19.763 INFORMATION [http-nio-8080-exec-160] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml]
+21-Jan-2025 20:08:19.764 WARNUNG [http-nio-8080-exec-160] org.apache.catalina.startup.HostConfig.deployDescriptor The path attribute with value [/GhostNetFishing] in deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has been ignored
+21-Jan-2025 20:08:20.819 INFORMATION [http-nio-8080-exec-160] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+21-Jan-2025 20:08:20.840 INFO [http-nio-8080-exec-160] org.jboss.weld.environment.servlet.EnhancedListener.onStartup WELD-ENV-001008: Initialize Weld using ServletContainerInitializer
+21-Jan-2025 20:08:20.853 INFO [http-nio-8080-exec-160] org.jboss.weld.bootstrap.WeldStartup.<clinit> WELD-000900: 4.0.2 (Final)
+21-Jan-2025 20:08:20.956 INFO [http-nio-8080-exec-160] org.jboss.weld.bootstrap.WeldStartup.startContainer WELD-000101: Transactional services not available. Injection of @Inject UserTransaction not available. Transactional observers will be invoked synchronously.
+21-Jan-2025 20:08:21.084 INFO [weld-worker-9] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.JakartaRestConfiguration because of underlying class loading error: Type jakarta.ws.rs.core.Application not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 20:08:21.087 INFO [weld-worker-10] org.jboss.weld.bootstrap.MissingDependenciesRegistry.handleResourceLoadingException WELD-000119: Not generating any bean definitions from de.teddy.GhostNetFishing.resources.JakartaEE9Resource because of underlying class loading error: Type jakarta.ws.rs.core.Response not found.  If this is unexpected, enable DEBUG logging to see the full error.
+21-Jan-2025 20:08:21.101 INFO [http-nio-8080-exec-160] org.jboss.weld.environment.tomcat.TomcatContainer.initialize WELD-ENV-001100: Tomcat 7+ detected, CDI injection will be available in Servlets, Filters and Listeners.
+21-Jan-2025 20:08:21.245 INFORMATION [http-nio-8080-exec-160] com.sun.faces.config.ConfigureListener.contextInitialized Mojarra 4.0.0 für Kontext '/GhostNetFishing' wird initialisiert.
+21-Jan-2025 20:08:21.307 INFORMATION [http-nio-8080-exec-160] com.sun.faces.spi.InjectionProviderFactory.createInstance JSF1048: PostConstruct/PreDestroy-Annotationen vorhanden.  Verwaltete Bean-Methoden, die mit diesen Annotationen markiert sind, lassen die entsprechenden Annotationen verarbeiten.
+21-Jan-2025 20:08:21.579 INFORMATION [http-nio-8080-exec-160] org.primefaces.webapp.PostConstructApplicationEventListener.processEvent Running on PrimeFaces 11.0.0
+21-Jan-2025 20:08:21.585 INFORMATION [http-nio-8080-exec-160] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [D:\Programmieren\Apache Tomcat 10\apache-tomcat-10.0.27\conf\Catalina\localhost\GhostNetFishing.xml] has finished in [1.822] ms
+21-Jan-2025 20:08:21.588 INFORMATION [http-nio-8080-exec-161] org.apache.catalina.util.LifecycleBase.start The start() method was called on component [StandardEngine[Catalina].StandardHost[localhost].StandardContext[/GhostNetFishing]] after start() had already been called. The second call will be ignored.
+21-Jan-2025 20:08:41.831 INFORMATION [main] org.apache.catalina.core.StandardServer.await A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+21-Jan-2025 20:08:41.831 INFORMATION [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+21-Jan-2025 20:08:41.833 INFORMATION [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+21-Jan-2025 20:08:41.847 INFORMATION [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+21-Jan-2025 20:08:41.860 INFORMATION [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

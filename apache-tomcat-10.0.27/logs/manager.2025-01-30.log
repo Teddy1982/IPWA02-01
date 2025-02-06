@@ -1,0 +1,12 @@
+30-Jan-2025 18:39:59.206 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Associated with Deployer 'Catalina:type=Deployer,host=localhost'
+30-Jan-2025 18:39:59.206 INFORMATION [http-nio-8080-exec-5] org.apache.catalina.core.ApplicationContext.log Manager: init: Global resources are available
+30-Jan-2025 18:39:59.240 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+30-Jan-2025 18:39:59.243 INFORMATION [http-nio-8080-exec-9] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+30-Jan-2025 18:39:59.254 INFORMATION [http-nio-8080-exec-10] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/GhostNetFishing'
+30-Jan-2025 18:39:59.807 INFORMATION [http-nio-8080-exec-8] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/EDUARD~1/AppData/Local/Temp/context401934783643286956.xml'
+30-Jan-2025 18:40:01.867 INFORMATION [http-nio-8080-exec-1] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/GhostNetFishing'
+30-Jan-2025 20:14:14.374 INFORMATION [http-nio-8080-exec-15] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+30-Jan-2025 20:14:14.375 INFORMATION [http-nio-8080-exec-13] org.apache.catalina.core.ApplicationContext.log Manager: list: Listing contexts for virtual host 'localhost'
+30-Jan-2025 20:14:14.378 INFORMATION [http-nio-8080-exec-16] org.apache.catalina.core.ApplicationContext.log Manager: undeploy: Undeploying web application at '/GhostNetFishing'
+30-Jan-2025 20:14:14.908 INFORMATION [http-nio-8080-exec-11] org.apache.catalina.core.ApplicationContext.log Manager: install: Installing context configuration at 'file:/C:/Users/EDUARD~1/AppData/Local/Temp/context14086209728440040063.xml'
+30-Jan-2025 20:14:16.877 INFORMATION [http-nio-8080-exec-14] org.apache.catalina.core.ApplicationContext.log Manager: start: Starting web application '/GhostNetFishing'
